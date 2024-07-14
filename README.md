@@ -1,2 +1,2 @@
 # Thanush
-My First Project
+My Projects
